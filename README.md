@@ -2,7 +2,7 @@
   <img src="./manu2.gif">
 </p>
 <br/>
-<h1 align="center">Hi 👋, I'm Manoj Patil<br/></h1>
+<h1 align="center">Hi 👋, I'm 🍀 Manoj Patil<br/></h1>
 <p align="center">
   <img src="./about.gif">
 </p>
