@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![](https://github.com/patil-manoj/patil-manoj/blob/main/manu2.gif)
+![](https://github.com/patil-manoj/patil-manoj/blob/main/about.gif)
 <!--
 **patil-manoj/patil-manoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
