@@ -6,7 +6,9 @@
 <p align="center">
   <img src="./about.gif">
 </p>
-<h3 align="center">A passionate frontend developer from India (;</h3>
+<p align="center">
+  <img src="./like.svg">
+</p>
 
 - 🌱 I’m currently learning **React,Node.js**
 
