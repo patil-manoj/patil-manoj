@@ -4,7 +4,7 @@
 <br/>
 <h1 align="center">Hi 👋, I'm 🍀 Manoj Patil<br/></h1>
 <p align="center">
-  <img src="./about.gif">
+  <img src="./text (2).gif">
 </p>
 <p align="center">
   <img src="./like.svg">
