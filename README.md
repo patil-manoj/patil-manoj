@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./manu2.gif">
+  <img src="./text (1).gif">
 </p>
 <br/>
 <h1 align="center">Hi 👋, I'm 🍀 Manoj Patil<br/></h1>
