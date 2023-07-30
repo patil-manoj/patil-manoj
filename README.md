@@ -2,7 +2,7 @@
 <img align="right" src="./giphy.gif" width="30%" style="display:inline;">
 
 <p align="center">
-  <img src="./text (1).gif">
+  <img src="./text (1).gif&center=true&width=280&height=50">
 </p>
 <br/>
 <h1 align="center">Hi 👋, I'm 🍀 Manoj Patil <br/></h1>
