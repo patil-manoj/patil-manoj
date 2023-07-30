@@ -1,3 +1,6 @@
+<img align="left" src="./giphy.gif" width="30%" style="display:inline;">
+<img align="right" src="./giphy.gif" width="30%" style="display:inline;">
+
 <p align="center">
   <img src="./text (1).gif">
 </p>
