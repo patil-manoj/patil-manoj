@@ -13,6 +13,27 @@
   <img src="./like.svg">
 </p> 
 
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Manoj Patil"
+        self.role = "Aspiring Software Engineer"
+        self.language_spoken = ["en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
 - 🌱 I’m currently learning **React,Node.js**
 
 - 👨‍💻 All of my projects are available at [https://patil-manoj.github.io/Resume/](https://patil-manoj.github.io/Resume/)
@@ -24,7 +45,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patil-manoj&show_icons=true&locale=en&layout=compact" alt="patil-manoj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patil-manoj&show_icons=true&locale=en" alt="patil-manoj" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patil-manoj&show_icons=true&locale=en" alt="patil-manoj" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patil-manoj&" alt="patil-manoj" /></p>
 
